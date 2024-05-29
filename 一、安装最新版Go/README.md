@@ -1,4 +1,4 @@
-# 《go-cookbook》windows 版
+# 《go-cookbook》
 
 ## 一、安装最新版 Go
 
